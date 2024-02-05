@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi guys 👋
+
+- 🔭 I’m currently working on Data transfer and data fragmentation
+- 🌱 I’m currently learning rust 
+- 🤔 I’m looking for help with how to promote
+- 💬 Ask me about life and distance hhh
+- 📫 How to reach me: green bubble
+- ⚡ Fun fact: ...
 
 <!--
 **corgy-w/corgy-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
