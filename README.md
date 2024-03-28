@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning rust 
 - 🤔 I’m looking for help with how to promote
 - 💬 Ask me about life and distance hhh
-- 📫 How to reach me: green bubble
+- 📫 How to reach me: green bubble razy1029
 - ⚡ Fun fact: ...
 
 <!--
