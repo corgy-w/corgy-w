@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-- 🔭 I’m currently working on Data transfer and data fragmentation
+- 🔭 I’m currently working on data transfer and data fragmentation
 - 🌱 I’m currently learning rust 
 - 🤔 I’m looking for help with how to promote
 - 💬 Ask me about life and distance hhh
